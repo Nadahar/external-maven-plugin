@@ -1,3 +1,7 @@
+# No longer maintained
+
+This plugin is no longer maintained, and is vulnerable to potential abuse as a result of not updating dependencies. At the time of writing, CVE-2018-1002200 is one such example.
+
 # External Dependency Maven Plugin
 
 This Maven plugin can be used to manage external dependencies that are not available in public Maven repositories or not mavenized at all. The plugin can download and install these dependencies as Maven artifacts in your local Maven repository so that they are available for Maven as any other dependencies and also deploy them to a remote repository.
